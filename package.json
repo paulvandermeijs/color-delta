@@ -1,0 +1,16 @@
+{
+  "name": "color-delta",
+  "version": "1.0.0",
+  "description": "Calculate difference between colors",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "color": "^4.2.3"
+  }
+}
